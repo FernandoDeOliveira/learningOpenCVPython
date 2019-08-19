@@ -238,3 +238,4 @@ pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/linux,python,pycharm,virtualenv
 .idea/
+chapter7/trainImages
