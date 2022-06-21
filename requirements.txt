@@ -2,7 +2,7 @@ cycler==0.10.0
 joblib==0.13.2
 kiwisolver==1.1.0
 matplotlib==3.0.3
-numpy==1.16.4
+numpy==1.22.0
 opencv-contrib-python==4.1.0.25
 opencv-python==3.4.2.16
 pyneural==0.0.2
